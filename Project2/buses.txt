@@ -1,0 +1,8 @@
+1001,Daewoo,Faizabad,Swat,50,0
+1002,Daewoo 2,Mandi Mor,Lower Dir,50,0
+1003,Hiace,Faizabad,Jhelum,20,1
+1004,Hiace 2,Mandi Mor,Chakwal,20,0
+1005,Coaster,PWD,D12,35,0
+1111,sniper,sialkot,islamabad,44,0
+0,Coaster4,India,Pakistan,3,0
+12345,X,Pakistan,Japan,42,0
