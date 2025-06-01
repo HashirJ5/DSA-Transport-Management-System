@@ -17,10 +17,3 @@ Key Concepts & Tools Used:
 
 This project really helped me deepen my practical understanding of how different data structures can work together in a real application. 
 
-
-
-Big thanks to Muhammad Yar khan for the help and support throughout the project.
-
- Grateful to Dr. Saneeha Aamir for the her guidance and valuable feedback!
-
-#DSA #DataStructures #HashTable #FileHandling #TransportSystem #CodingProject #C++ #StudentProject #LearningByDoing
